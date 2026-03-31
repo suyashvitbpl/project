@@ -1,0 +1,2 @@
+# project
+Fundamentals of AI and ML Evaluated Course Project
